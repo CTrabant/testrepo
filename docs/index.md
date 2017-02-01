@@ -2,4 +2,4 @@
 
 Yay for content.
 
-(subpage)[subpage]
+[subpage](subpage)
